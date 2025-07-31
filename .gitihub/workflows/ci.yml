@@ -1,5 +1,4 @@
-name: Resume CI Build
-
+name: Resume Build CI
 
 on:
   push:
